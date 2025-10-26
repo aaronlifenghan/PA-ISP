@@ -1,0 +1,9 @@
+# PA-ISP
+Perspective Aware Iterative Self Prompting LLMs - papers with resources to share
+
+
+# Refs:
+
+Ren, Libo, Yee Man Ng, and Lifeng Han. "MaLei at MultiClinSUM: Summarisation of Clinical Documents using Perspective-Aware Iterative Self-Prompting with LLMs." (2025).
+
+Romero, Pablo, Libo Ren, Lifeng Han, and Goran Nenadic. "The Manchester Bees at PerAnsSumm 2025: Iterative Self-Prompting with Claude and o1 for Perspective-aware Healthcare Answer Summarisation."
