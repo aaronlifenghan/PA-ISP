@@ -1,5 +1,5 @@
 # PA-ISP
-Perspective-Aware Iterative Self-Prompting LLMs - for downstream tasks - papers with resources to share
+Perspective-Aware Iterative Self-Prompting LLMs - for downstream tasks - case studies on Clinical Report Summarisation and Healthcare Answer Summarisation
 
 
 # Refs:
